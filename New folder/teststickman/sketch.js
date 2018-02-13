@@ -31,4 +31,3 @@ function draw() {
 
   rect(mouseX, mouseY, 100, 300);
   ellipse(400, 150, 300, 200);
-}
